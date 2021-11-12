@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">Map</string>
+    <string name="map">Map</string>
+    <string name="history">History</string>
     <string name="title_activity_maps">MapsActivity</string>
-    <string name="distance"></string>
+    <string name="distance" />
+    <string name="metrs">Metrs</string>
+    <string name="name">Name</string>
+    <string name="loading">Загрузка…</string>
 </resources>
