@@ -9,5 +9,5 @@ Cчитаем длину маршрута по этим координатам.
 Стэк: Google Maps, Fragment, Coroutines, Room
 
 
-|![Screenshot 1.](./screenshot/Screen.png) | ![Screenshot 2.](./screenshot/Screen2.png) |
+|![Screenshot 1.](./screenshot/Screen3.png) | ![Screenshot 2.](./screenshot/Screen2.png) |
 |---|---|
