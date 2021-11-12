@@ -6,6 +6,8 @@ Cчитаем длину маршрута по этим координатам.
 
 Отображаем на карте.
 
-Стэк: Google Maps, Fragment,Coroutines
+Стэк: Google Maps, Fragment, Coroutines, Room
 
-![Screenshot 1.](./screenshot/Screen.png)
+
+|![Screenshot 1.](./screenshot/Screen.png) | ![Screenshot 2.](./screenshot/Screen2.png) |
+|---|---|
