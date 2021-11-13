@@ -1,4 +1,4 @@
-package ru.binnyatoff.map.screens
+package ru.binnyatoff.map.screens.history
 
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel

@@ -9,7 +9,6 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import ru.binnyatoff.map.R
 import ru.binnyatoff.map.databinding.FragmentHistoryBinding
-import ru.binnyatoff.map.screens.HistoryFragmentVM
 
 class HistoryFragment : Fragment(R.layout.fragment_map) {
     private lateinit var binding: FragmentHistoryBinding

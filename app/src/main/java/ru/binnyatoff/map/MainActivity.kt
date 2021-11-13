@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
 
 
         //BottomNavigation
-        binding.bottomNavigation.setOnNavigationItemReselectedListener { item ->
+        binding.bottomNavigation.setOnItemSelectedListener { item ->
             when(item.itemId) {
                 R.id.map -> {
                     supportFragmentManager.commit {
@@ -33,6 +33,7 @@ class MainActivity : AppCompatActivity() {
                     }
                 }
             }
+            true
         }
     }
 }
